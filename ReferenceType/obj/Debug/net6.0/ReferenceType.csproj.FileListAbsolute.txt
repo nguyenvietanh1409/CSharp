@@ -1,0 +1,15 @@
+F:\WorkSpaces\C#\Session1\ReferenceType\bin\Debug\net6.0\ReferenceType.exe
+F:\WorkSpaces\C#\Session1\ReferenceType\bin\Debug\net6.0\ReferenceType.deps.json
+F:\WorkSpaces\C#\Session1\ReferenceType\bin\Debug\net6.0\ReferenceType.runtimeconfig.json
+F:\WorkSpaces\C#\Session1\ReferenceType\bin\Debug\net6.0\ReferenceType.dll
+F:\WorkSpaces\C#\Session1\ReferenceType\bin\Debug\net6.0\ReferenceType.pdb
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.AssemblyReference.cache
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfoInputs.cache
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.AssemblyInfo.cs
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.csproj.CoreCompileInputs.cache
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.dll
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\refint\ReferenceType.dll
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.pdb
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ReferenceType.genruntimeconfig.cache
+F:\WorkSpaces\C#\Session1\ReferenceType\obj\Debug\net6.0\ref\ReferenceType.dll

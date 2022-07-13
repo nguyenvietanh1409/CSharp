@@ -1,0 +1,15 @@
+F:\WorkSpaces\C#\Session1\First_prg\bin\Debug\net6.0\First_prg.exe
+F:\WorkSpaces\C#\Session1\First_prg\bin\Debug\net6.0\First_prg.deps.json
+F:\WorkSpaces\C#\Session1\First_prg\bin\Debug\net6.0\First_prg.runtimeconfig.json
+F:\WorkSpaces\C#\Session1\First_prg\bin\Debug\net6.0\First_prg.dll
+F:\WorkSpaces\C#\Session1\First_prg\bin\Debug\net6.0\First_prg.pdb
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.csproj.AssemblyReference.cache
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.AssemblyInfoInputs.cache
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.AssemblyInfo.cs
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.csproj.CoreCompileInputs.cache
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.dll
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\refint\First_prg.dll
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.pdb
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\First_prg.genruntimeconfig.cache
+F:\WorkSpaces\C#\Session1\First_prg\obj\Debug\net6.0\ref\First_prg.dll

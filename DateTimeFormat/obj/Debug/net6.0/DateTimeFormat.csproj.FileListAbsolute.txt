@@ -1,0 +1,15 @@
+F:\WorkSpaces\C#\Session1\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.exe
+F:\WorkSpaces\C#\Session1\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.deps.json
+F:\WorkSpaces\C#\Session1\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.runtimeconfig.json
+F:\WorkSpaces\C#\Session1\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.dll
+F:\WorkSpaces\C#\Session1\DateTimeFormat\bin\Debug\net6.0\DateTimeFormat.pdb
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.csproj.AssemblyReference.cache
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.AssemblyInfoInputs.cache
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.AssemblyInfo.cs
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.csproj.CoreCompileInputs.cache
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.dll
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\refint\DateTimeFormat.dll
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.pdb
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\DateTimeFormat.genruntimeconfig.cache
+F:\WorkSpaces\C#\Session1\DateTimeFormat\obj\Debug\net6.0\ref\DateTimeFormat.dll
