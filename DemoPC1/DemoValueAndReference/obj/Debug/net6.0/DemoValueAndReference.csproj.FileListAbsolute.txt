@@ -1,0 +1,15 @@
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\bin\Debug\net6.0\DemoValueAndReference.exe
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\bin\Debug\net6.0\DemoValueAndReference.deps.json
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\bin\Debug\net6.0\DemoValueAndReference.runtimeconfig.json
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\bin\Debug\net6.0\DemoValueAndReference.dll
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\bin\Debug\net6.0\DemoValueAndReference.pdb
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.csproj.AssemblyReference.cache
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.AssemblyInfoInputs.cache
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.AssemblyInfo.cs
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.csproj.CoreCompileInputs.cache
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.dll
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\refint\DemoValueAndReference.dll
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.pdb
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\DemoValueAndReference.genruntimeconfig.cache
+F:\WorkSpaces\C#\DemoPC1\DemoValueAndReference\obj\Debug\net6.0\ref\DemoValueAndReference.dll
