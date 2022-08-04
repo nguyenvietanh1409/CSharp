@@ -1,0 +1,15 @@
+F:\WorkSpaces\C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+F:\WorkSpaces\C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+F:\WorkSpaces\C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+F:\WorkSpaces\C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+F:\WorkSpaces\C#\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+F:\WorkSpaces\C#\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
