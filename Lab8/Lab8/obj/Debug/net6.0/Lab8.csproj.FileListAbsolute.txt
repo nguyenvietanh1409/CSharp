@@ -1,0 +1,15 @@
+F:\WorkSpaces\C#\Lab8\Lab8\bin\Debug\net6.0\Lab8.exe
+F:\WorkSpaces\C#\Lab8\Lab8\bin\Debug\net6.0\Lab8.deps.json
+F:\WorkSpaces\C#\Lab8\Lab8\bin\Debug\net6.0\Lab8.runtimeconfig.json
+F:\WorkSpaces\C#\Lab8\Lab8\bin\Debug\net6.0\Lab8.dll
+F:\WorkSpaces\C#\Lab8\Lab8\bin\Debug\net6.0\Lab8.pdb
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.csproj.AssemblyReference.cache
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfoInputs.cache
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfo.cs
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.csproj.CoreCompileInputs.cache
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.dll
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\refint\Lab8.dll
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.pdb
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\Lab8.genruntimeconfig.cache
+F:\WorkSpaces\C#\Lab8\Lab8\obj\Debug\net6.0\ref\Lab8.dll
